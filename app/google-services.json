@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34650829420",
+    "project_id": "sinav-uygulamasi-7f456",
+    "storage_bucket": "sinav-uygulamasi-7f456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34650829420:android:e2c2b5cbae4075df4d9e49",
+        "android_client_info": {
+          "package_name": "tr.com.example.sinavhazirlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmBcihB51EzCCL7IY-dnrMKAkXcBCtkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
